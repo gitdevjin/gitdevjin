@@ -23,13 +23,13 @@
 ### Cloud
 - 
 
-### Programming Language
+### Programming Languages
 - C/C++, JavaScript(ES6)
 - SQL
 
 
 ## 🌎 Others
-### Human Language
+### Human Languages
 - Korean 🇰🇷 (native)
 - English 🇨🇦🇬🇧🇺🇸
 - Japanese 🇯🇵
