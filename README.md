@@ -28,7 +28,7 @@
 - SQL
 
 
-## Others
+## 🌎 Others
 ### Human Language
 - Korean 🇰🇷 (native)
 - English 🇨🇦🇬🇧🇺🇸
