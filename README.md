@@ -7,7 +7,7 @@
 - ⭐ Goal: become a full stack developer.
 - 🧭 Motto: Don't give up
 
-## 🔧 Tech Stacks
+## ⚒️ Tech Stacks
 ### Front
 - HTML5, CSS3, JavaScript(ES6)
 - React.js(plan to learn)
