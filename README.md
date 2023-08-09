@@ -23,7 +23,7 @@
 - Oracle
 
 ### Programming Language
-- C++, JavaScript(ES6)
+- C/C++, JavaScript(ES6)
 - SQL
 
 ### Human Language
