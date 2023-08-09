@@ -27,6 +27,7 @@
 - C/C++, JavaScript(ES6)
 - SQL
 
+
 ## Others
 ### Human Language
 - Korean 🇰🇷 (native)
