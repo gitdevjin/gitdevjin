@@ -20,7 +20,7 @@
 - Jira
 
 ### Cloud
-- Oracle
+- 
 
 ### Programming Language
 - C/C++, JavaScript(ES6)
