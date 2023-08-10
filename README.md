@@ -31,5 +31,5 @@
 ## 🌎 Others
 ### Human Languages
 - Korean 🇰🇷 (native)
-- English 🇨🇦 🇬🇧 🇺🇸
+- English :canada: 🇬🇧 🇺🇸
 - Japanese 🇯🇵
