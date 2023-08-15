@@ -29,7 +29,3 @@
 
 
 ## 🌎 Others
-### Human Languages
-- Korean 🇰🇷 (native)
-- English :canada: 🇬🇧 🇺🇸
-- Japanese 🇯🇵
