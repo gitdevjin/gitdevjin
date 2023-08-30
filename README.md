@@ -24,7 +24,7 @@
 - 
 
 ### Programming Languages
-- C/C++, JavaScript(ES6)
+- C/C++, JavaScript(ES6), Java
 - SQL
 
 
