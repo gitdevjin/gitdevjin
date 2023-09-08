@@ -13,7 +13,7 @@
 - React.js (Learning)
 
 ### Back
-- Node.js, Express.js
+- Node.js, Express.js, JDBC
 - Oracle, MongoDB
 
 ### DevOps
