@@ -10,7 +10,7 @@
 ## 💻 Tech Stacks
 ### Front
 - HTML5, CSS3, JavaScript(ES6)
-- React.js (Learning)
+- React.js
 
 ### Back
 - Node.js, Express.js, JDBC
