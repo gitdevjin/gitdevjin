@@ -18,7 +18,10 @@
 
 ### DevOps
 - Git/GitHub
-- Jira
+
+### Software Development
+- Agile, Scrum, Kanban
+- Jira, MS Project
 
 ### Cloud
 - 
