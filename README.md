@@ -13,7 +13,7 @@
 - React.js
 
 ### Back
-- Node.js, Express.js, JDBC
+- Node.js, Express.js, Java, JDBC
 - Oracle, MongoDB
 
 ### DevOps
@@ -24,7 +24,7 @@
 - 
 
 ### Programming Languages
-- C/C++, JavaScript(ES6), Java
+- C/C++, JavaScript(ES6), Java, Python
 - SQL
 
 
