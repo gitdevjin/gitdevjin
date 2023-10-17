@@ -1,4 +1,4 @@
-### Hello and Welcome 👋, I'm Jin (Hyunjin Shin)
+### Hello and Welcome 👋, I'm Jin
 
 ### I'm a Student and a soon-to-be Developer
 - 📚 I am currently studying Computer Programming at Seneca College (Toronto)
