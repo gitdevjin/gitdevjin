@@ -13,7 +13,7 @@
 - React.js
 
 ### Back
-- Node.js, Express.js, Java, JDBC
+- Node.js, Express.js, Java JDBC/Servlet/JSP, Java Spring Boot
 - Oracle, MongoDB
 
 ### DevOps
@@ -24,7 +24,7 @@
 - Jira, MS Project
 
 ### Cloud
-- 
+- AWS Cognito
 
 ### Programming Languages
 - C/C++, JavaScript(ES6), Java, Python
