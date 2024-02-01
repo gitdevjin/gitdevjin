@@ -13,7 +13,7 @@
 - React.js
 
 ### Back
-- Node.js, Express.js, JDBC/Servlet/JSP(Java), Spring Boot(Java)
+- Node.js, Express.js, JDBC/Servlet/JSP (Java), Spring Boot (Java)
 - Oracle, MongoDB
 
 ### DevOps
