@@ -16,10 +16,13 @@
 - Node.js, Express.js, JDBC/Servlet/JSP (Java), Spring Boot (Java)
 - Oracle, MongoDB
 
+### Application Development
+- JavaFX
+
 ### DevOps
 - Git/GitHub
 
-### Software Development
+### Software Development Life Cycle
 - Agile, Scrum, Kanban
 - Jira, MS Project
 
