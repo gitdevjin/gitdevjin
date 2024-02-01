@@ -13,7 +13,7 @@
 - React.js
 
 ### Back
-- Node.js, Express.js, JDBC/Servlet/JSP (Java), Spring Boot (Java)
+- Node.js, Express.js, JDBC/Servlet/JSP(Java), Spring Boot(Java)
 - Oracle, MongoDB
 
 ### Application Development
@@ -31,7 +31,7 @@
 
 ### Programming Languages
 - C/C++, JavaScript(ES6), Java, Python
-- SQL
+- SQL, Unix Shell Script
 
 
 ## 🌎 Others
