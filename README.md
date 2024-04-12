@@ -21,13 +21,14 @@
 
 ### DevOps
 - Git/GitHub
+- Docker
 
 ### Software Development Life Cycle
 - Agile, Scrum, Kanban
 - Jira, MS Project
 
 ### Cloud
-- AWS Cognito
+- AWS Cognito/EC2/ECS/ECR/S3/DynamoDB
 
 ### Programming Languages
 - C/C++, JavaScript(ES6), Java, Python
