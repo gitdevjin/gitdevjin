@@ -28,7 +28,7 @@
 - Jira, MS Project
 
 ### Cloud
-- AWS Cognito/EC2/ECS/ECR/S3/DynamoDB
+- Aamazon Web Services < Cognito, EC2, ECS, ECR, S3, DynamoDB >
 
 ### Programming Languages
 - C/C++, JavaScript(ES6), Java, Python
