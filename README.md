@@ -4,7 +4,7 @@
 - 📚 I am currently studying Computer Programming at Seneca College (Toronto)
 - 🌱 I am constantly learning programming languages and skills
 - 🔥 Hard working is my forte
-- ⭐ Goal: become a full stack developer
+- ⭐ Goal: to become a full stack developer
 - 🧭 Motto: Don't give up
 
 ## 💻 Tech Stacks
