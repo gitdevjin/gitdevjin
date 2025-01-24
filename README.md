@@ -17,7 +17,7 @@
 - Oracle, MongoDB
 
 ### Application Development
-- JavaFX
+- JavaFX, React Native
 
 ### DevOps
 - Git/GitHub
