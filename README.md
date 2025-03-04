@@ -1,7 +1,7 @@
 ### Hello and Welcome 👋, I'm Jin
 
 ### I'm a Student and a soon-to-be Developer
-- 📚 I am currently studying Computer Programming at Seneca College (Toronto)
+- 📚 I studied Computer Programming & analysis at Seneca College (Toronto)
 - 🌱 I am constantly learning programming languages and skills
 - 🔥 Hard working is my forte
 - ⭐ Goal: to become a full stack developer
