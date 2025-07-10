@@ -31,7 +31,7 @@
 - Aamazon Web Services < Cognito, EC2, ECS, ECR, S3, DynamoDB >
 
 ### Programming Languages
-- C/C++, JavaScript(ES6), Java, Python
+- C/C++, JavaScript(ES6), TypeScript Java, Python
 - SQL, Unix Shell Script
 
 
