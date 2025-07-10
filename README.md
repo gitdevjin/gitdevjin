@@ -10,7 +10,7 @@
 ## 💻 Tech Stacks
 ### Front
 - HTML5, CSS3, JavaScript(ES6)
-- React.js, NextJs, tailwind
+- React.js, Next.Js, tailwind
 
 ### Back
 - Node.js, Express.js, JDBC/Servlet/JSP(Java), Spring Boot(Java)
