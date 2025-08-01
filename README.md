@@ -13,8 +13,12 @@
 - React.js, Next.js, tailwind
 
 ### Back
-- Node.js, Express.js, NestJs, JDBC/Servlet/JSP(Java), Spring Boot(Java)
-- Oracle, MongoDB
+- Node.js, Express.js, NestJs
+- JDBC/Servlet/JSP(Java), Spring Boot(Java), ASP.NET
+
+### Database
+- Oracle, PostgreSQL, MongoDB
+- Prisma, TypeORM
 
 ### Application Development
 - JavaFX, React Native
@@ -29,6 +33,7 @@
 
 ### Cloud
 - Aamazon Web Services < Cognito, EC2, ECS, ECR, S3, DynamoDB >
+- Microsoft Azure
 
 ### Programming Languages
 - C/C++, JavaScript(ES6), TypeScript Java, Python
