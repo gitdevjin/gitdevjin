@@ -36,7 +36,7 @@
 - Microsoft Azure
 
 ### Programming Languages
-- C/C++, JavaScript(ES6), TypeScript Java, Python
+- C/C++, JavaScript(ES6), TypeScript, Java, Python
 - SQL, Unix Shell Script
 
 
