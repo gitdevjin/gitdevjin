@@ -41,4 +41,4 @@
 
 
 ## 🌎 Others
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={leetdevjin})
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={leetdevjin}" alt="LeetCode Badges" />
