@@ -13,7 +13,7 @@
 - React.js, Next.js, tailwind
 
 ### Back
-- Node.js, Express.js, NestJs
+- Node.js, Express.js, NestJs,
 - JDBC/Servlet/JSP(Java), Spring Boot(Java), ASP.NET
 
 ### Database
@@ -32,7 +32,7 @@
 - Jira, MS Project
 
 ### Cloud
-- Aamazon Web Services < Cognito, EC2, ECS, ECR, S3, DynamoDB >
+- Aamazon Web Services < Cognito, EC2, VPC, ECS, ECR, S3, DynamoDB >
 - Microsoft Azure
 
 ### Programming Languages
