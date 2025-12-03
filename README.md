@@ -13,7 +13,7 @@
 - React.js, Next.js, tailwind
 
 ### Back
-- Node.js, Express.js, NestJs,
+- Node.js, Express.js, NestJs, Supabase
 - JDBC/Servlet/JSP(Java), Spring Boot(Java), ASP.NET
 
 ### Database
